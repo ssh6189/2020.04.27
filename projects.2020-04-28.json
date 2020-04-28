@@ -1,0 +1,3414 @@
+[
+  {
+    "primary_site": [
+      "Testis", 
+      "Gallbladder", 
+      "Unknown", 
+      "Other and unspecified parts of biliary tract", 
+      "Adrenal gland", 
+      "Thyroid gland", 
+      "Oropharynx", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Corpus uteri", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Nasal cavity and middle ear", 
+      "Stomach", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Cervix uteri", 
+      "Bladder", 
+      "Hypopharynx", 
+      "Larynx", 
+      "Small intestine", 
+      "Breast", 
+      "Prostate gland", 
+      "Other and ill-defined sites", 
+      "Other and unspecified major salivary glands", 
+      "Rectum", 
+      "Retroperitoneum and peritoneum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Bronchus and lung", 
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified female genital organs", 
+      "Thymus", 
+      "Penis", 
+      "Nasopharynx", 
+      "Meninges", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Other and ill-defined sites in lip, oral cavity and pharynx", 
+      "Anus and anal canal", 
+      "Other and unspecified urinary organs", 
+      "Vagina", 
+      "Other endocrine glands and related structures", 
+      "Brain", 
+      "Colon", 
+      "Other and ill-defined digestive organs", 
+      "Skin", 
+      "Esophagus", 
+      "Eye and adnexa", 
+      "Hematopoietic and reticuloendothelial systems", 
+      "Kidney"
+    ], 
+    "program": {
+      "name": "GENIE"
+    }, 
+    "project_id": "GENIE-MSK", 
+    "id": "GENIE-MSK", 
+    "summary": {
+      "file_count": 36470, 
+      "case_count": 16824, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 16823
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 16823
+        }, 
+        {
+          "data_category": "Somatic Structural Variation", 
+          "case_count": 2824
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms", 
+      "Granular Cell Tumors and Alveolar Soft Part Sarcomas", 
+      "Immunoproliferative Diseases", 
+      "Plasma Cell Tumors", 
+      "Acinar Cell Neoplasms", 
+      "Mesonephromas", 
+      "Synovial-like Neoplasms", 
+      "Miscellaneous Tumors", 
+      "Thymic Epithelial Neoplasms", 
+      "Gliomas", 
+      "Myomatous Neoplasms", 
+      "Soft Tissue Tumors and Sarcomas, NOS", 
+      "Fibromatous Neoplasms", 
+      "Osseous and Chondromatous Neoplasms", 
+      "Neuroepitheliomatous Neoplasms", 
+      "Hodgkin Lymphoma", 
+      "Nerve Sheath Tumors", 
+      "Ductal and Lobular Neoplasms", 
+      "Specialized Gonadal Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Fibroepithelial Neoplasms", 
+      "Blood Vessel Tumors", 
+      "Complex Epithelial Neoplasms", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Lipomatous Neoplasms", 
+      "Myeloid Leukemias", 
+      "Mesothelial Neoplasms", 
+      "Basal Cell Neoplasms", 
+      "Neoplasms of Histiocytes and Accessory Lymphoid Cells", 
+      "Myxomatous Neoplasms", 
+      "Mast Cell Tumors", 
+      "Mucoepidermoid Neoplasms", 
+      "Odontogenic Tumors", 
+      "Mature B-Cell Lymphomas", 
+      "Neoplasms, NOS", 
+      "Malignant Lymphomas, NOS or Diffuse", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Mature T- and NK-Cell Lymphomas", 
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Lymphoid Leukemias", 
+      "Paragangliomas and Glomus Tumors", 
+      "Miscellaneous Bone Tumors", 
+      "Leukemias, NOS", 
+      "Trophoblastic neoplasms", 
+      "Nevi and Melanomas", 
+      "Meningiomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Corpus uteri", 
+      "Uterus, NOS"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-UCEC", 
+    "id": "TCGA-UCEC", 
+    "summary": {
+      "file_count": 17277, 
+      "case_count": 560, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 559
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 542
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 560
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 560
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 559
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 558
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 559
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Epithelial Neoplasms, NOS", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Not Reported"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Adrenal gland"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-ACC", 
+    "id": "TCGA-ACC", 
+    "summary": {
+      "file_count": 2736, 
+      "case_count": 92, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 80
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 92
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 92
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 92
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 80
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 92
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 92
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Brain"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-LGG", 
+    "id": "TCGA-LGG", 
+    "summary": {
+      "file_count": 15795, 
+      "case_count": 516, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 516
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 513
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 516
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 516
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 516
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 515
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 516
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Gliomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Kidney", 
+      "Other and unspecified parts of tongue", 
+      "Bones, joints and articular cartilage of limbs", 
+      "Colon", 
+      "Ovary", 
+      "Stomach", 
+      "Uterus, NOS", 
+      "Meninges", 
+      "Corpus uteri", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Retroperitoneum and peritoneum", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Other and unspecified male genital organs"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-SARC", 
+    "id": "TCGA-SARC", 
+    "summary": {
+      "file_count": 8002, 
+      "case_count": 261, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 261
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 255
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 261
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 261
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 261
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 261
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 261
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Nerve Sheath Tumors", 
+      "Myomatous Neoplasms", 
+      "Fibromatous Neoplasms", 
+      "Lipomatous Neoplasms", 
+      "Soft Tissue Tumors and Sarcomas, NOS", 
+      "Synovial-like Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Pancreas"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-PAAD", 
+    "id": "TCGA-PAAD", 
+    "summary": {
+      "file_count": 5671, 
+      "case_count": 185, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 178
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 183
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 185
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 185
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 184
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 185
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 185
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Ductal and Lobular Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Epithelial Neoplasms, NOS"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Esophagus", 
+      "Stomach"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-ESCA", 
+    "id": "TCGA-ESCA", 
+    "summary": {
+      "file_count": 5657, 
+      "case_count": 185, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 184
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 184
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 185
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 185
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 185
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 185
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 185
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Squamous Cell Neoplasms", 
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Bronchus and lung"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-LUAD", 
+    "id": "TCGA-LUAD", 
+    "summary": {
+      "file_count": 18162, 
+      "case_count": 585, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 519
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 569
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 585
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 585
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 579
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 518
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 582
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Acinar Cell Neoplasms", 
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Prostate gland"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-PRAD", 
+    "id": "TCGA-PRAD", 
+    "summary": {
+      "file_count": 15296, 
+      "case_count": 500, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 498
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 498
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 500
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 500
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 498
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 498
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 498
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Ductal and Lobular Neoplasms", 
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Testis", 
+      "Unknown", 
+      "Other and unspecified parts of biliary tract", 
+      "Adrenal gland", 
+      "Thyroid gland", 
+      "Oropharynx", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Corpus uteri", 
+      "Nasal cavity and middle ear", 
+      "Stomach", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Cervix uteri", 
+      "Bladder", 
+      "Larynx", 
+      "Small intestine", 
+      "Breast", 
+      "Prostate gland", 
+      "Other and ill-defined sites", 
+      "Other and unspecified major salivary glands", 
+      "Rectum", 
+      "Retroperitoneum and peritoneum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Other and ill-defined digestive organs", 
+      "Bronchus and lung", 
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified female genital organs", 
+      "Thymus", 
+      "Penis", 
+      "Nasopharynx", 
+      "Meninges", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Other and ill-defined sites in lip, oral cavity and pharynx", 
+      "Anus and anal canal", 
+      "Other and unspecified urinary organs", 
+      "Vagina", 
+      "Other endocrine glands and related structures", 
+      "Colon", 
+      "Gallbladder", 
+      "Skin", 
+      "Esophagus", 
+      "Eye and adnexa", 
+      "Hematopoietic and reticuloendothelial systems", 
+      "Kidney"
+    ], 
+    "program": {
+      "name": "GENIE"
+    }, 
+    "project_id": "GENIE-VICC", 
+    "id": "GENIE-VICC", 
+    "summary": {
+      "file_count": 3833, 
+      "case_count": 2052, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 2052
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 1473
+        }, 
+        {
+          "data_category": "Somatic Structural Variation", 
+          "case_count": 308
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms", 
+      "Acinar Cell Neoplasms", 
+      "Synovial-like Neoplasms", 
+      "Plasma Cell Tumors", 
+      "Thymic Epithelial Neoplasms", 
+      "Gliomas", 
+      "Myomatous Neoplasms", 
+      "Soft Tissue Tumors and Sarcomas, NOS", 
+      "Neoplasms, NOS", 
+      "Osseous and Chondromatous Neoplasms", 
+      "Neuroepitheliomatous Neoplasms", 
+      "Precursor Cell Lymphoblastic Lymphoma", 
+      "Myelodysplastic Syndromes", 
+      "Ductal and Lobular Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Chronic Myeloproliferative Disorders", 
+      "Blood Vessel Tumors", 
+      "Complex Epithelial Neoplasms", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Lipomatous Neoplasms", 
+      "Myeloid Leukemias", 
+      "Mesothelial Neoplasms", 
+      "Basal Cell Neoplasms", 
+      "Neoplasms of Histiocytes and Accessory Lymphoid Cells", 
+      "Mast Cell Tumors", 
+      "Mucoepidermoid Neoplasms", 
+      "Other Leukemias", 
+      "Specialized Gonadal Neoplasms", 
+      "Granular Cell Tumors and Alveolar Soft Part Sarcomas", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Fibromatous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Mature T- and NK-Cell Lymphomas", 
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Lymphoid Leukemias", 
+      "Paragangliomas and Glomus Tumors", 
+      "Leukemias, NOS", 
+      "Nevi and Melanomas", 
+      "Meningiomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-LAML", 
+    "id": "TCGA-LAML", 
+    "summary": {
+      "file_count": 4814, 
+      "case_count": 200, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 188
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 149
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 200
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 200
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 140
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 200
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 195
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Myeloid Leukemias"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Kidney"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-KIRC", 
+    "id": "TCGA-KIRC", 
+    "summary": {
+      "file_count": 16255, 
+      "case_count": 537, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 534
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 339
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 537
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 537
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 533
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 534
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 535
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Rectosigmoid junction", 
+      "Colon"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-COAD", 
+    "id": "TCGA-COAD", 
+    "summary": {
+      "file_count": 15338, 
+      "case_count": 461, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 459
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 433
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 461
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 461
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 458
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 460
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 460
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Complex Epithelial Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Epithelial Neoplasms, NOS"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Other endocrine glands and related structures", 
+      "Heart, mediastinum, and pleura", 
+      "Other and ill-defined sites", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Adrenal gland", 
+      "Retroperitoneum and peritoneum", 
+      "Connective, subcutaneous and other soft tissues"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-PCPG", 
+    "id": "TCGA-PCPG", 
+    "summary": {
+      "file_count": 5378, 
+      "case_count": 179, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 179
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 179
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 179
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 179
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 179
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 179
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 179
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Paragangliomas and Glomus Tumors"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Other and unspecified parts of tongue", 
+      "Hypopharynx", 
+      "Base of tongue", 
+      "Lip", 
+      "Oropharynx", 
+      "Palate", 
+      "Gum", 
+      "Other and ill-defined sites in lip, oral cavity and pharynx", 
+      "Tonsil", 
+      "Floor of mouth", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Larynx", 
+      "Other and unspecified parts of mouth"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-HNSC", 
+    "id": "TCGA-HNSC", 
+    "summary": {
+      "file_count": 16340, 
+      "case_count": 528, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 528
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 510
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 528
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 528
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 528
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 526
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 528
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Squamous Cell Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems"
+    ], 
+    "program": {
+      "name": "BEATAML1.0"
+    }, 
+    "project_id": "BEATAML1.0-COHORT", 
+    "id": "BEATAML1.0-COHORT", 
+    "summary": {
+      "file_count": 8981, 
+      "case_count": 583, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 450
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 342
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 583
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Other Leukemias", 
+      "Plasma Cell Tumors", 
+      "Other Hematologic Disorders", 
+      "Unknown", 
+      "Myeloid Leukemias", 
+      "Precursor Cell Lymphoblastic Lymphoma", 
+      "Myelodysplastic Syndromes", 
+      "Leukemias, NOS", 
+      "Chronic Myeloproliferative Disorders"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems"
+    ], 
+    "program": {
+      "name": "BEATAML1.0"
+    }, 
+    "project_id": "BEATAML1.0-CRENOLANIB", 
+    "id": "BEATAML1.0-CRENOLANIB", 
+    "summary": {
+      "file_count": 223, 
+      "case_count": 56, 
+      "data_categories": [
+        {
+          "data_category": "Clinical", 
+          "case_count": 56
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 52
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 56
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Myeloid Leukemias"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Unknown", 
+      "Thyroid gland", 
+      "Oropharynx", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Corpus uteri", 
+      "Stomach", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Bladder", 
+      "Small intestine", 
+      "Breast", 
+      "Bronchus and lung", 
+      "Other and ill-defined sites", 
+      "Rectum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Prostate gland", 
+      "Liver and intrahepatic bile ducts", 
+      "Thymus", 
+      "Meninges", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Vagina", 
+      "Other endocrine glands and related structures", 
+      "Brain", 
+      "Colon", 
+      "Other and ill-defined digestive organs", 
+      "Skin", 
+      "Esophagus", 
+      "Eye and adnexa", 
+      "Hematopoietic and reticuloendothelial systems", 
+      "Anus and anal canal"
+    ], 
+    "program": {
+      "name": "GENIE"
+    }, 
+    "project_id": "GENIE-JHU", 
+    "id": "GENIE-JHU", 
+    "summary": {
+      "file_count": 3320, 
+      "case_count": 3320, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 3320
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Acinar Cell Neoplasms", 
+      "Synovial-like Neoplasms", 
+      "Thymic Epithelial Neoplasms", 
+      "Gliomas", 
+      "Myomatous Neoplasms", 
+      "Soft Tissue Tumors and Sarcomas, NOS", 
+      "Neoplasms, NOS", 
+      "Osseous and Chondromatous Neoplasms", 
+      "Neuroepitheliomatous Neoplasms", 
+      "Myelodysplastic Syndromes", 
+      "Ductal and Lobular Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Chronic Myeloproliferative Disorders", 
+      "Complex Epithelial Neoplasms", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Lipomatous Neoplasms", 
+      "Myeloid Leukemias", 
+      "Mesothelial Neoplasms", 
+      "Myxomatous Neoplasms", 
+      "Mast Cell Tumors", 
+      "Neoplasms of Histiocytes and Accessory Lymphoid Cells", 
+      "Other Leukemias", 
+      "Mature B-Cell Lymphomas", 
+      "Malignant Lymphomas, NOS or Diffuse", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Lymphoid Leukemias", 
+      "Leukemias, NOS", 
+      "Nevi and Melanomas", 
+      "Meningiomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems"
+    ], 
+    "program": {
+      "name": "MMRF"
+    }, 
+    "project_id": "MMRF-COMMPASS", 
+    "id": "MMRF-COMMPASS", 
+    "summary": {
+      "file_count": 21790, 
+      "case_count": 995, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 959
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 995
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 787
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Plasma Cell Tumors"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Eye and adnexa"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-UVM", 
+    "id": "TCGA-UVM", 
+    "summary": {
+      "file_count": 2340, 
+      "case_count": 80, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 80
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 80
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 80
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 80
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 80
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 80
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 80
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Nevi and Melanomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Stomach"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-STAD", 
+    "id": "TCGA-STAD", 
+    "summary": {
+      "file_count": 13739, 
+      "case_count": 443, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 439
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 441
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 443
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 443
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 443
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 443
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 443
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Thyroid gland"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-THCA", 
+    "id": "TCGA-THCA", 
+    "summary": {
+      "file_count": 15445, 
+      "case_count": 507, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 507
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 496
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 507
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 507
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 507
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 505
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 507
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas", 
+      "Epithelial Neoplasms, NOS"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems"
+    ], 
+    "program": {
+      "name": "OHSU"
+    }, 
+    "project_id": "OHSU-CNL", 
+    "id": "OHSU-CNL", 
+    "summary": {
+      "file_count": 798, 
+      "case_count": 176, 
+      "data_categories": [
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 176
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 80
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Chronic Myeloproliferative Disorders"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Kidney", 
+      "Testis", 
+      "Gallbladder", 
+      "Unknown", 
+      "Other and unspecified parts of biliary tract", 
+      "Adrenal gland", 
+      "Thyroid gland", 
+      "Oropharynx", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Corpus uteri", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Nasal cavity and middle ear", 
+      "Meninges", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Cervix uteri", 
+      "Bladder", 
+      "Hypopharynx", 
+      "Larynx", 
+      "Small intestine", 
+      "Breast", 
+      "Prostate gland", 
+      "Other and ill-defined sites", 
+      "Other and unspecified major salivary glands", 
+      "Rectum", 
+      "Retroperitoneum and peritoneum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Bronchus and lung", 
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified female genital organs", 
+      "Thymus", 
+      "Penis", 
+      "Nasopharynx", 
+      "Stomach", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Other and ill-defined sites in lip, oral cavity and pharynx", 
+      "Other and unspecified urinary organs", 
+      "Vagina", 
+      "Other endocrine glands and related structures", 
+      "Brain", 
+      "Colon", 
+      "Anus and anal canal", 
+      "Skin", 
+      "Esophagus", 
+      "Eye and adnexa", 
+      "Hematopoietic and reticuloendothelial systems", 
+      "Other and ill-defined digestive organs"
+    ], 
+    "program": {
+      "name": "GENIE"
+    }, 
+    "project_id": "GENIE-DFCI", 
+    "id": "GENIE-DFCI", 
+    "summary": {
+      "file_count": 28464, 
+      "case_count": 14232, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 14232
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 14232
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms", 
+      "Granular Cell Tumors and Alveolar Soft Part Sarcomas", 
+      "Immunoproliferative Diseases", 
+      "Hodgkin Lymphoma", 
+      "Miscellaneous Tumors", 
+      "Acinar Cell Neoplasms", 
+      "Specialized Gonadal Neoplasms", 
+      "Synovial-like Neoplasms", 
+      "Mesonephromas", 
+      "Plasma Cell Tumors", 
+      "Thymic Epithelial Neoplasms", 
+      "Gliomas", 
+      "Myomatous Neoplasms", 
+      "Soft Tissue Tumors and Sarcomas, NOS", 
+      "Neoplasms, NOS", 
+      "Osseous and Chondromatous Neoplasms", 
+      "Neuroepitheliomatous Neoplasms", 
+      "Precursor Cell Lymphoblastic Lymphoma", 
+      "Myelodysplastic Syndromes", 
+      "Nerve Sheath Tumors", 
+      "Ductal and Lobular Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Fibroepithelial Neoplasms", 
+      "Chronic Myeloproliferative Disorders", 
+      "Blood Vessel Tumors", 
+      "Complex Epithelial Neoplasms", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Lipomatous Neoplasms", 
+      "Myeloid Leukemias", 
+      "Mesothelial Neoplasms", 
+      "Basal Cell Neoplasms", 
+      "Mucoepidermoid Neoplasms", 
+      "Myxomatous Neoplasms", 
+      "Neoplasms of Histiocytes and Accessory Lymphoid Cells", 
+      "Other Leukemias", 
+      "Mature B-Cell Lymphomas", 
+      "Lymphatic Vessel Tumors", 
+      "Fibromatous Neoplasms", 
+      "Giant Cell Tumors", 
+      "Malignant Lymphomas, NOS or Diffuse", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Mature T- and NK-Cell Lymphomas", 
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Lymphoid Leukemias", 
+      "Paragangliomas and Glomus Tumors", 
+      "Miscellaneous Bone Tumors", 
+      "Leukemias, NOS", 
+      "Trophoblastic neoplasms", 
+      "Nevi and Melanomas", 
+      "Meningiomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Testis", 
+      "Gallbladder", 
+      "Unknown", 
+      "Other and unspecified parts of biliary tract", 
+      "Adrenal gland", 
+      "Thyroid gland", 
+      "Oropharynx", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Nasal cavity and middle ear", 
+      "Stomach", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Cervix uteri", 
+      "Bladder", 
+      "Larynx", 
+      "Small intestine", 
+      "Breast", 
+      "Bronchus and lung", 
+      "Other and ill-defined sites", 
+      "Other and unspecified major salivary glands", 
+      "Rectum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Other and ill-defined digestive organs", 
+      "Prostate gland", 
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified female genital organs", 
+      "Thymus", 
+      "Nasopharynx", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Other and ill-defined sites in lip, oral cavity and pharynx", 
+      "Other and unspecified urinary organs", 
+      "Vagina", 
+      "Brain", 
+      "Colon", 
+      "Anus and anal canal", 
+      "Skin", 
+      "Esophagus", 
+      "Eye and adnexa", 
+      "Kidney"
+    ], 
+    "program": {
+      "name": "GENIE"
+    }, 
+    "project_id": "GENIE-NKI", 
+    "id": "GENIE-NKI", 
+    "summary": {
+      "file_count": 801, 
+      "case_count": 801, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 801
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms", 
+      "Acinar Cell Neoplasms", 
+      "Synovial-like Neoplasms", 
+      "Thymic Epithelial Neoplasms", 
+      "Gliomas", 
+      "Myomatous Neoplasms", 
+      "Soft Tissue Tumors and Sarcomas, NOS", 
+      "Fibromatous Neoplasms", 
+      "Neoplasms, NOS", 
+      "Nerve Sheath Tumors", 
+      "Ductal and Lobular Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Complex Epithelial Neoplasms", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Mesothelial Neoplasms", 
+      "Specialized Gonadal Neoplasms", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Miscellaneous Bone Tumors", 
+      "Nevi and Melanomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Kidney", 
+      "Testis", 
+      "Gallbladder", 
+      "Unknown", 
+      "Other and unspecified parts of biliary tract", 
+      "Adrenal gland", 
+      "Thyroid gland", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Stomach", 
+      "Cervix uteri", 
+      "Bladder", 
+      "Small intestine", 
+      "Breast", 
+      "Bronchus and lung", 
+      "Other and ill-defined sites", 
+      "Other and unspecified major salivary glands", 
+      "Rectum", 
+      "Retroperitoneum and peritoneum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Prostate gland", 
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified female genital organs", 
+      "Thymus", 
+      "Penis", 
+      "Nasopharynx", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Vulva", 
+      "Other and unspecified urinary organs", 
+      "Trachea", 
+      "Ureter", 
+      "Other endocrine glands and related structures", 
+      "Not Reported", 
+      "Colon", 
+      "Anus and anal canal", 
+      "Vagina", 
+      "Skin", 
+      "Esophagus", 
+      "Eye and adnexa", 
+      "Other and ill-defined digestive organs"
+    ], 
+    "program": {
+      "name": "FM"
+    }, 
+    "project_id": "FM-AD", 
+    "id": "FM-AD", 
+    "summary": {
+      "file_count": 36134, 
+      "case_count": 18004, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 18004
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 18004
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 18004
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms", 
+      "Acinar Cell Neoplasms", 
+      "Miscellaneous Tumors", 
+      "Thymic Epithelial Neoplasms", 
+      "Gliomas", 
+      "Not Reported", 
+      "Neuroepitheliomatous Neoplasms", 
+      "Ductal and Lobular Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Complex Epithelial Neoplasms", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Mesothelial Neoplasms", 
+      "Basal Cell Neoplasms", 
+      "Mucoepidermoid Neoplasms", 
+      "Specialized Gonadal Neoplasms", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Paragangliomas and Glomus Tumors", 
+      "Nevi and Melanomas", 
+      "Meningiomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-ALL-P1", 
+    "id": "TARGET-ALL-P1", 
+    "summary": {
+      "file_count": 109, 
+      "case_count": 24, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 12
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 24
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 21
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 14
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Lymphoid Leukemias"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Blood", 
+      "Hematopoietic and reticuloendothelial systems"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-ALL-P2", 
+    "id": "TARGET-ALL-P2", 
+    "summary": {
+      "file_count": 19708, 
+      "case_count": 1587, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 474
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 717
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 1574
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 1586
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 293
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 964
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Lymphoid Leukemias"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems", 
+      "Unknown"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-ALL-P3", 
+    "id": "TARGET-ALL-P3", 
+    "summary": {
+      "file_count": 3712, 
+      "case_count": 191, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 110
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 87
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 131
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 112
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 131
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Other Leukemias", 
+      "Not Applicable", 
+      "Leukemias, NOS", 
+      "Myeloid Leukemias", 
+      "Lymphoid Leukemias"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Liver and intrahepatic bile ducts", 
+      "Kidney", 
+      "Lip"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-RT", 
+    "id": "TARGET-RT", 
+    "summary": {
+      "file_count": 909, 
+      "case_count": 69, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 66
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 69
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 69
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 69
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Complex Mixed and Stromal Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Unknown", 
+      "Lymph Nodes"
+    ], 
+    "program": {
+      "name": "CTSP"
+    }, 
+    "project_id": "CTSP-DLBCL1", 
+    "id": "CTSP-DLBCL1", 
+    "summary": {
+      "file_count": 417, 
+      "case_count": 45, 
+      "data_categories": [
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 45
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 41
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Mature B-Cell Lymphomas", 
+      "Lymphoid Neoplasm Diffuse Large B-cell Lymphoma"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Testis", 
+      "Unknown", 
+      "Other and unspecified parts of biliary tract", 
+      "Adrenal gland", 
+      "Thyroid gland", 
+      "Oropharynx", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Corpus uteri", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Nasal cavity and middle ear", 
+      "Stomach", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Cervix uteri", 
+      "Bladder", 
+      "Small intestine", 
+      "Breast", 
+      "Prostate gland", 
+      "Other and ill-defined sites", 
+      "Other and unspecified major salivary glands", 
+      "Rectum", 
+      "Retroperitoneum and peritoneum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Other and ill-defined digestive organs", 
+      "Bronchus and lung", 
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified female genital organs", 
+      "Thymus", 
+      "Nasopharynx", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Other and ill-defined sites in lip, oral cavity and pharynx", 
+      "Anus and anal canal", 
+      "Other and unspecified urinary organs", 
+      "Vagina", 
+      "Colon", 
+      "Gallbladder", 
+      "Skin", 
+      "Esophagus", 
+      "Eye and adnexa", 
+      "Hematopoietic and reticuloendothelial systems", 
+      "Kidney"
+    ], 
+    "program": {
+      "name": "GENIE"
+    }, 
+    "project_id": "GENIE-UHN", 
+    "id": "GENIE-UHN", 
+    "summary": {
+      "file_count": 2632, 
+      "case_count": 2632, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 2632
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms", 
+      "Acinar Cell Neoplasms", 
+      "Synovial-like Neoplasms", 
+      "Myomatous Neoplasms", 
+      "Soft Tissue Tumors and Sarcomas, NOS", 
+      "Neoplasms, NOS", 
+      "Osseous and Chondromatous Neoplasms", 
+      "Precursor Cell Lymphoblastic Lymphoma", 
+      "Myelodysplastic Syndromes", 
+      "Nerve Sheath Tumors", 
+      "Ductal and Lobular Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Fibroepithelial Neoplasms", 
+      "Chronic Myeloproliferative Disorders", 
+      "Blood Vessel Tumors", 
+      "Complex Epithelial Neoplasms", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Lipomatous Neoplasms", 
+      "Myeloid Leukemias", 
+      "Mesothelial Neoplasms", 
+      "Basal Cell Neoplasms", 
+      "Neoplasms of Histiocytes and Accessory Lymphoid Cells", 
+      "Mast Cell Tumors", 
+      "Mucoepidermoid Neoplasms", 
+      "Other Leukemias", 
+      "Specialized Gonadal Neoplasms", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Fibromatous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Lymphoid Leukemias", 
+      "Paragangliomas and Glomus Tumors", 
+      "Miscellaneous Bone Tumors", 
+      "Leukemias, NOS", 
+      "Nevi and Melanomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Testis", 
+      "Gallbladder", 
+      "Unknown", 
+      "Other and unspecified parts of biliary tract", 
+      "Adrenal gland", 
+      "Thyroid gland", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Corpus uteri", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Meninges", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Cervix uteri", 
+      "Bladder", 
+      "Small intestine", 
+      "Breast", 
+      "Bronchus and lung", 
+      "Other and ill-defined sites", 
+      "Other and unspecified major salivary glands", 
+      "Retroperitoneum and peritoneum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Other and ill-defined digestive organs", 
+      "Prostate gland", 
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified female genital organs", 
+      "Thymus", 
+      "Nasopharynx", 
+      "Stomach", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Other and unspecified urinary organs", 
+      "Vagina", 
+      "Other endocrine glands and related structures", 
+      "Brain", 
+      "Colon", 
+      "Anus and anal canal", 
+      "Skin", 
+      "Esophagus", 
+      "Eye and adnexa", 
+      "Hematopoietic and reticuloendothelial systems", 
+      "Kidney"
+    ], 
+    "program": {
+      "name": "GENIE"
+    }, 
+    "project_id": "GENIE-MDA", 
+    "id": "GENIE-MDA", 
+    "summary": {
+      "file_count": 3857, 
+      "case_count": 3857, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 3857
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms", 
+      "Specialized Gonadal Neoplasms", 
+      "Synovial-like Neoplasms", 
+      "Miscellaneous Tumors", 
+      "Thymic Epithelial Neoplasms", 
+      "Gliomas", 
+      "Myomatous Neoplasms", 
+      "Fibromatous Neoplasms", 
+      "Osseous and Chondromatous Neoplasms", 
+      "Neuroepitheliomatous Neoplasms", 
+      "Hodgkin Lymphoma", 
+      "Nerve Sheath Tumors", 
+      "Ductal and Lobular Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Fibroepithelial Neoplasms", 
+      "Blood Vessel Tumors", 
+      "Complex Epithelial Neoplasms", 
+      "Lipomatous Neoplasms", 
+      "Mesothelial Neoplasms", 
+      "Basal Cell Neoplasms", 
+      "Mucoepidermoid Neoplasms", 
+      "Mature B-Cell Lymphomas", 
+      "Neoplasms, NOS", 
+      "Malignant Lymphomas, NOS or Diffuse", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Nevi and Melanomas", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Miscellaneous Bone Tumors", 
+      "Leukemias, NOS", 
+      "Trophoblastic neoplasms", 
+      "Epithelial Neoplasms, NOS", 
+      "Meningiomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Brain", 
+      "Uterus, NOS", 
+      "Bronchus and lung", 
+      "Kidney"
+    ], 
+    "program": {
+      "name": "CPTAC"
+    }, 
+    "project_id": "CPTAC-3", 
+    "id": "CPTAC-3", 
+    "summary": {
+      "file_count": 13169, 
+      "case_count": 430, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 420
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 430
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 430
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Not Applicable", 
+      "Adenomas and Adenocarcinomas", 
+      "Gliomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Bronchus and lung"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-LUSC", 
+    "id": "TCGA-LUSC", 
+    "summary": {
+      "file_count": 16368, 
+      "case_count": 504, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 504
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 497
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 504
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 504
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 503
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 504
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 504
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Squamous Cell Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Ovary"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-OV", 
+    "id": "TCGA-OV", 
+    "summary": {
+      "file_count": 16344, 
+      "case_count": 608, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 492
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 443
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 608
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 608
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 602
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 597
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 575
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Not Reported"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Brain"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-GBM", 
+    "id": "TCGA-GBM", 
+    "summary": {
+      "file_count": 13089, 
+      "case_count": 617, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 166
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 396
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 617
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 617
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 423
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 599
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 406
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Gliomas", 
+      "Not Reported"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Uterus, NOS"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-UCS", 
+    "id": "TCGA-UCS", 
+    "summary": {
+      "file_count": 1765, 
+      "case_count": 57, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 57
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 57
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 57
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 57
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 57
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 57
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 57
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Complex Mixed and Stromal Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Prostate gland"
+    ], 
+    "program": {
+      "name": "WCDT"
+    }, 
+    "project_id": "WCDT-MCRPC", 
+    "id": "WCDT-MCRPC", 
+    "summary": {
+      "file_count": 994, 
+      "case_count": 101, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 99
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 101
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Bronchus and lung", 
+      "Heart, mediastinum, and pleura"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-MESO", 
+    "id": "TCGA-MESO", 
+    "summary": {
+      "file_count": 2518, 
+      "case_count": 87, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 87
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 83
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 87
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 87
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 87
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 87
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 87
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Mesothelial Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Testis"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-TGCT", 
+    "id": "TCGA-TGCT", 
+    "summary": {
+      "file_count": 4605, 
+      "case_count": 150, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 150
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 150
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 150
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 150
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 150
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 150
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 150
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Kidney"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-KICH", 
+    "id": "TCGA-KICH", 
+    "summary": {
+      "file_count": 2457, 
+      "case_count": 113, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 66
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 66
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 113
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 113
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 66
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 66
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 66
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Colon", 
+      "Rectosigmoid junction", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Unknown", 
+      "Rectum"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-READ", 
+    "id": "TCGA-READ", 
+    "summary": {
+      "file_count": 5269, 
+      "case_count": 172, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 167
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 158
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 172
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 172
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 165
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 167
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 171
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Lymph Nodes"
+    ], 
+    "program": {
+      "name": "NCICCR"
+    }, 
+    "project_id": "NCICCR-DLBCL", 
+    "id": "NCICCR-DLBCL", 
+    "summary": {
+      "file_count": 4805, 
+      "case_count": 489, 
+      "data_categories": [
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 489
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 481
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Lymphoid Neoplasm Diffuse Large B-cell Lymphoma"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Pancreas"
+    ], 
+    "program": {
+      "name": "ORGANOID"
+    }, 
+    "project_id": "ORGANOID-PANCREATIC", 
+    "id": "ORGANOID-PANCREATIC", 
+    "summary": {
+      "file_count": 703, 
+      "case_count": 70, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 58
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 70
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 49
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Unknown", 
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Bronchus and lung"
+    ], 
+    "program": {
+      "name": "VAREPOP"
+    }, 
+    "project_id": "VAREPOP-APOLLO", 
+    "id": "VAREPOP-APOLLO", 
+    "summary": {
+      "file_count": 21, 
+      "case_count": 7, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 7
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 7
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Colon", 
+      "Breast", 
+      "Other and unspecified female genital organs", 
+      "Ovary", 
+      "Retroperitoneum and peritoneum", 
+      "Rectum"
+    ], 
+    "program": {
+      "name": "CPTAC"
+    }, 
+    "project_id": "CPTAC-2", 
+    "id": "CPTAC-2", 
+    "summary": {
+      "file_count": 7612, 
+      "case_count": 342, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 322
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 341
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 341
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Not Reported", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Squamous Cell Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Ductal and Lobular Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Testis", 
+      "Gallbladder", 
+      "Unknown", 
+      "Other and unspecified parts of biliary tract", 
+      "Adrenal gland", 
+      "Thyroid gland", 
+      "Oropharynx", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Corpus uteri", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Nasal cavity and middle ear", 
+      "Stomach", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Cervix uteri", 
+      "Bladder", 
+      "Hypopharynx", 
+      "Larynx", 
+      "Small intestine", 
+      "Breast", 
+      "Prostate gland", 
+      "Other and ill-defined sites", 
+      "Other and unspecified major salivary glands", 
+      "Rectum", 
+      "Retroperitoneum and peritoneum", 
+      "Pancreas", 
+      "Heart, mediastinum, and pleura", 
+      "Bronchus and lung", 
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified female genital organs", 
+      "Thymus", 
+      "Penis", 
+      "Nasopharynx", 
+      "Ovary", 
+      "Uterus, NOS", 
+      "Other and ill-defined sites in lip, oral cavity and pharynx", 
+      "Anus and anal canal", 
+      "Other and unspecified urinary organs", 
+      "Vagina", 
+      "Brain", 
+      "Colon", 
+      "Other and ill-defined digestive organs", 
+      "Skin", 
+      "Esophagus", 
+      "Kidney"
+    ], 
+    "program": {
+      "name": "GENIE"
+    }, 
+    "project_id": "GENIE-GRCC", 
+    "id": "GENIE-GRCC", 
+    "summary": {
+      "file_count": 1038, 
+      "case_count": 1038, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 1038
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Germ Cell Neoplasms", 
+      "Acinar Cell Neoplasms", 
+      "Synovial-like Neoplasms", 
+      "Thymic Epithelial Neoplasms", 
+      "Gliomas", 
+      "Myomatous Neoplasms", 
+      "Soft Tissue Tumors and Sarcomas, NOS", 
+      "Fibromatous Neoplasms", 
+      "Osseous and Chondromatous Neoplasms", 
+      "Neuroepitheliomatous Neoplasms", 
+      "Nerve Sheath Tumors", 
+      "Ductal and Lobular Neoplasms", 
+      "Complex Mixed and Stromal Neoplasms", 
+      "Fibroepithelial Neoplasms", 
+      "Blood Vessel Tumors", 
+      "Complex Epithelial Neoplasms", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Lipomatous Neoplasms", 
+      "Mesothelial Neoplasms", 
+      "Basal Cell Neoplasms", 
+      "Mucoepidermoid Neoplasms", 
+      "Neoplasms, NOS", 
+      "Odontogenic Tumors", 
+      "Adenomas and Adenocarcinomas", 
+      "Granular Cell Tumors and Alveolar Soft Part Sarcomas", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Specialized Gonadal Neoplasms", 
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Transitional Cell Papillomas and Carcinomas", 
+      "Paragangliomas and Glomus Tumors", 
+      "Miscellaneous Bone Tumors", 
+      "Nevi and Melanomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Liver and intrahepatic bile ducts"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-LIHC", 
+    "id": "TCGA-LIHC", 
+    "summary": {
+      "file_count": 11578, 
+      "case_count": 377, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 376
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 375
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 377
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 377
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 377
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 376
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 377
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Thymus", 
+      "Heart, mediastinum, and pleura"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-THYM", 
+    "id": "TCGA-THYM", 
+    "summary": {
+      "file_count": 3691, 
+      "case_count": 124, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 124
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 123
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 124
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 124
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 124
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 124
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 124
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Thymic Epithelial Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Liver and intrahepatic bile ducts", 
+      "Other and unspecified parts of biliary tract", 
+      "Gallbladder"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-CHOL", 
+    "id": "TCGA-CHOL", 
+    "summary": {
+      "file_count": 1426, 
+      "case_count": 51, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 36
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 51
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 51
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 51
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 36
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 36
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 51
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Skin"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-SKCM", 
+    "id": "TCGA-SKCM", 
+    "summary": {
+      "file_count": 13674, 
+      "case_count": 470, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 469
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 470
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 470
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 470
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 470
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 470
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 470
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Nevi and Melanomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Kidney"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-CCSK", 
+    "id": "TARGET-CCSK", 
+    "summary": {
+      "file_count": 143, 
+      "case_count": 13, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 13
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 13
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 13
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 11
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 13
+        }, 
+        {
+          "data_category": "Combined Nucleotide Variation", 
+          "case_count": 13
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Complex Mixed and Stromal Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Not Reported", 
+      "Bones, joints and articular cartilage of limbs", 
+      "Bones, joints and articular cartilage of other and unspecified sites"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-OS", 
+    "id": "TARGET-OS", 
+    "summary": {
+      "file_count": 2937, 
+      "case_count": 383, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 88
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 97
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 383
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 379
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 81
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 122
+        }, 
+        {
+          "data_category": "Combined Nucleotide Variation", 
+          "case_count": 31
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Osseous and Chondromatous Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems", 
+      "Unknown"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-AML", 
+    "id": "TARGET-AML", 
+    "summary": {
+      "file_count": 7772, 
+      "case_count": 2146, 
+      "data_categories": [
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 22
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 988
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 988
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 73
+        }, 
+        {
+          "data_category": "Combined Nucleotide Variation", 
+          "case_count": 197
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 1842
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 1848
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Not Applicable", 
+      "Myeloid Leukemias"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Adrenal gland", 
+      "Stomach", 
+      "Meninges", 
+      "Skin", 
+      "Spinal cord, cranial nerves, and other parts of central nervous system", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Kidney", 
+      "Uterus, NOS", 
+      "Other and ill-defined sites", 
+      "Other endocrine glands and related structures", 
+      "Retroperitoneum and peritoneum", 
+      "Heart, mediastinum, and pleura", 
+      "Hematopoietic and reticuloendothelial systems", 
+      "Renal pelvis", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Peripheral nerves and autonomic nervous system", 
+      "Bones, joints and articular cartilage of limbs", 
+      "Lymph nodes", 
+      "Unknown", 
+      "Liver and intrahepatic bile ducts"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-NBL", 
+    "id": "TARGET-NBL", 
+    "summary": {
+      "file_count": 5474, 
+      "case_count": 1132, 
+      "data_categories": [
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 278
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 1120
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 1132
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 219
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 155
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Neuroepitheliomatous Neoplasms", 
+      "Not Applicable"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Kidney"
+    ], 
+    "program": {
+      "name": "TARGET"
+    }, 
+    "project_id": "TARGET-WT", 
+    "id": "TARGET-WT", 
+    "summary": {
+      "file_count": 2405, 
+      "case_count": 652, 
+      "data_categories": [
+        {
+          "data_category": "Combined Nucleotide Variation", 
+          "case_count": 81
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 652
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 652
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 39
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 128
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 128
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Complex Mixed and Stromal Neoplasms"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Breast", 
+      "Other and unspecified major salivary glands", 
+      "Testis", 
+      "Heart, mediastinum, and pleura", 
+      "Hematopoietic and reticuloendothelial systems", 
+      "Colon", 
+      "Small intestine", 
+      "Stomach", 
+      "Lymph nodes", 
+      "Thyroid gland", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Retroperitoneum and peritoneum", 
+      "Connective, subcutaneous and other soft tissues", 
+      "Brain"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-DLBC", 
+    "id": "TCGA-DLBC", 
+    "summary": {
+      "file_count": 1325, 
+      "case_count": 58, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 48
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 37
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 58
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 58
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 48
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 50
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 48
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Mature B-Cell Lymphomas", 
+      "Not Reported"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Cervix uteri"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-CESC", 
+    "id": "TCGA-CESC", 
+    "summary": {
+      "file_count": 9201, 
+      "case_count": 307, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 307
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 305
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 307
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 307
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 307
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 304
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 307
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Squamous Cell Neoplasms", 
+      "Complex Epithelial Neoplasms", 
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Breast"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-BRCA", 
+    "id": "TCGA-BRCA", 
+    "summary": {
+      "file_count": 33766, 
+      "case_count": 1098, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 1097
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 1044
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 1098
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 1098
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 1095
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 1098
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 1098
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Fibroepithelial Neoplasms", 
+      "Basal Cell Neoplasms", 
+      "Complex Epithelial Neoplasms", 
+      "Cystic, Mucinous and Serous Neoplasms", 
+      "Ductal and Lobular Neoplasms", 
+      "Squamous Cell Neoplasms", 
+      "Epithelial Neoplasms, NOS", 
+      "Adnexal and Skin Appendage Neoplasms", 
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Kidney"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-KIRP", 
+    "id": "TCGA-KIRP", 
+    "summary": {
+      "file_count": 9137, 
+      "case_count": 291, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 291
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 288
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 291
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 291
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 291
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 290
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 291
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Bladder"
+    ], 
+    "program": {
+      "name": "TCGA"
+    }, 
+    "project_id": "TCGA-BLCA", 
+    "id": "TCGA-BLCA", 
+    "summary": {
+      "file_count": 12513, 
+      "case_count": 412, 
+      "data_categories": [
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 412
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 412
+        }, 
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 412
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 412
+        }, 
+        {
+          "data_category": "DNA Methylation", 
+          "case_count": 412
+        }, 
+        {
+          "data_category": "Copy Number Variation", 
+          "case_count": 412
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 412
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Epithelial Neoplasms, NOS", 
+      "Squamous Cell Neoplasms", 
+      "Adenomas and Adenocarcinomas", 
+      "Transitional Cell Papillomas and Carcinomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Rectum", 
+      "Brain", 
+      "Other and unspecified parts of biliary tract", 
+      "Bronchus and lung", 
+      "Colon", 
+      "Bones, joints and articular cartilage of other and unspecified sites", 
+      "Esophagus", 
+      "Pancreas"
+    ], 
+    "program": {
+      "name": "HCMI"
+    }, 
+    "project_id": "HCMI-CMDC", 
+    "id": "HCMI-CMDC", 
+    "summary": {
+      "file_count": 1361, 
+      "case_count": 23, 
+      "data_categories": [
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 23
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 23
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 19
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 23
+        }, 
+        {
+          "data_category": "Simple Nucleotide Variation", 
+          "case_count": 23
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Adenomas and Adenocarcinomas", 
+      "Epithelial Neoplasms, NOS", 
+      "Miscellaneous Bone Tumors", 
+      "Ductal and Lobular Neoplasms", 
+      "Gliomas"
+    ]
+  }, 
+  {
+    "primary_site": [
+      "Hematopoietic and reticuloendothelial systems"
+    ], 
+    "program": {
+      "name": "CGCI"
+    }, 
+    "project_id": "CGCI-BLGSP", 
+    "id": "CGCI-BLGSP", 
+    "summary": {
+      "file_count": 1782, 
+      "case_count": 120, 
+      "data_categories": [
+        {
+          "data_category": "Biospecimen", 
+          "case_count": 120
+        }, 
+        {
+          "data_category": "Transcriptome Profiling", 
+          "case_count": 113
+        }, 
+        {
+          "data_category": "Clinical", 
+          "case_count": 119
+        }, 
+        {
+          "data_category": "Sequencing Reads", 
+          "case_count": 117
+        }
+      ]
+    }, 
+    "disease_type": [
+      "Mature B-Cell Lymphomas"
+    ]
+  }
+]
